@@ -1,2 +1,2 @@
-# GitHub-Customizations
+# GitHub-Customizations 🎨
 Personalized toolkit assistant
