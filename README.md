@@ -1,2 +1,2 @@
 # GitHub-Customizations 🎨
-Personalized toolkit assistant
+Personalized toolkit assistant for generating creative readme.
